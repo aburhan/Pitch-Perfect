@@ -39,7 +39,6 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="recordAudio:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Jrf-vs-tPf"/>
                                     <action selector="stopAudio:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="ElO-uS-fRB"/>
                                 </connections>
                             </button>
@@ -219,7 +218,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Nn5-NY-qca" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1891.5" y="321"/>
+            <point key="canvasLocation" x="1987.5" y="327"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="JTZ-If-YM6">

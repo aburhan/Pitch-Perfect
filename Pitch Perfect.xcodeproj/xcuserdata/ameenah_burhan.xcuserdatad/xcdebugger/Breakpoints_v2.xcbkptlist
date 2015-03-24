@@ -98,6 +98,16 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             symbolName = "*0x107c97282">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UIKeyboardEmojiScrollView saveFirstVisibleEmojiIndex]"
+                  moduleName = "UIKit"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
